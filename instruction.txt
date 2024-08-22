@@ -1,0 +1,8 @@
+link postman = https://api.postman.com/collections/8413048-0cf813a8-7a98-48e6-99f2-09e0013da88e?access_key=PMAT-01J5Y6RVJSFDP0E4QABVH8J6HG
+
+to get documentation paste the link to postman
+
+1. npm install
+2. sequelize db:create
+3. sequelize db:migrate
+4. npm run dev
